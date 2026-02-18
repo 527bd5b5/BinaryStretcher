@@ -1,4 +1,4 @@
-Binary Stretcher 1.0.0
+Binary Stretcher 1.0.1
 
 ◆ これは何？
 

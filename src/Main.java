@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
     public static final String TITLE = "Binary Stretcher";
-    public static final String VERSION = "1.0.0";
+    public static final String VERSION = "1.0.1";
     public static final int META_SIZE = 44;
 
     public int mode = 0; // 1: encode, 2: decode
